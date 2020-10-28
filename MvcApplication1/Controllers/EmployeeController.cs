@@ -24,7 +24,7 @@ namespace MvcApplication1.Controllers
 
         public void Test()
         {
-
+            var test = "my data";
         }
     }
 }

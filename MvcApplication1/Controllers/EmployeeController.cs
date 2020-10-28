@@ -21,5 +21,10 @@ namespace MvcApplication1.Controllers
             //Tsting
             return employees;
         }
+
+        public void Test()
+        {
+
+        }
     }
 }
